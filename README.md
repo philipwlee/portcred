@@ -23,3 +23,7 @@ Philip Lee | Spring 2022
 * Default Probability Distributions
 * Probability Distribution Change of Variable
 * Vasicek Distribution
+
+#### Homework 4
+* Frye Jacobs Distribution
+* Vasicek Distributions as marginals
